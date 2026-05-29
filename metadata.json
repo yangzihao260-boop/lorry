@@ -1,0 +1,6 @@
+{
+  "name": "Lorry Explorer",
+  "description": "An interactive vocabulary game for children, focusing on identifying the lorry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
